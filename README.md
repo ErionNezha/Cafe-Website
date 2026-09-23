@@ -41,7 +41,7 @@ python3 -m http.server 8000
 
 ## Licenca
 
-Ky projekt është licencuar sipas licencës MIT — shihni file-in [LICENSE](LICENSE) për detaje.
+Të gjitha të drejtat e rezervuara © 2026 Erion Nezha — shihni file-in [LICENSE](LICENSE) për detaje.
 
 ---
 
@@ -88,4 +88,4 @@ python3 -m http.server 8000
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+All rights reserved © 2026 Erion Nezha — see the [LICENSE](LICENSE) file for details.
